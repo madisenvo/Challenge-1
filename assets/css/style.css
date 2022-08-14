@@ -11,7 +11,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* header */
+/* formats header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -28,8 +28,7 @@ body {
     color: #d9dcd6;
 }
 
-/* nav element  */
-
+/* formats nav element in header */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -44,20 +43,19 @@ body {
     margin-left: 25px;
 }
 
-/* anchor element */
-
+/* formats anchor element */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* paragraph */
-
+/* formats paragraphs */
 p {
     font-size: 16px;
 }
 
-.hero {
+/* formats figure */
+.figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -66,6 +64,7 @@ p {
     background-position: center;
 }
 
+/* formats images in main */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -76,6 +75,7 @@ p {
     margin-left: 25px;
 }
 
+/* formats content in main */
 .content {
     width: 75%;
     display: inline-block;
@@ -101,9 +101,8 @@ p {
     font-size: 36px;
 }
 
-
 /* formats article element */
-.benefits {
+.article {
     margin-right: 20px;
     margin-bottom: 32px;
     padding: 20px;
@@ -115,12 +114,12 @@ p {
     background-color: #2589bd;
 }
 
-.benefits h3 {
+.article h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefits img {
+.article img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
