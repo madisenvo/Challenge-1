@@ -14,7 +14,7 @@ No installation needed.
 
 Click headings in nav bar or scroll to view webpage content.
 
-![header with nav bar](assets/images/Screen Shot 2022-08-17 at 11.39.35 AM.png)
+![header with nav bar](/assets/images/Screen Shot 2022-08-17 at 11.39.35 AM.png)
 
 ## Credits
 
